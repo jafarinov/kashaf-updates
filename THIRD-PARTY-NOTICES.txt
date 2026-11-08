@@ -1,0 +1,10 @@
+الكشّاف الجعفري للأسانيد — © 2026 جعفر. جميع الحقوق محفوظة.
+
+يستعمل البرنامج المكوّنات المفتوحة الآتية، وتراخيصها تبيح استعمالها في البرامج الخاصة بشرط ذكرها:
+
+- Go standard library — BSD 3-Clause License, Copyright (c) 2009 The Go Authors.
+- go-webview2 — MIT License, Copyright (c) 2020 John Chadwick.
+- go-winloader — MIT License, Copyright (c) 2020 John Chadwick.
+- golang.org/x/sys — BSD 3-Clause License, Copyright (c) 2009 The Go Authors.
+- الخطوط: Aref Ruqaa، Amiri، Noto Naskh Arabic، IBM Plex Sans Arabic — SIL Open Font License 1.1.
+- Microsoft Edge WebView2 Runtime — مكوّن من نظام ويندوز، يُستعمل ولا يُوزَّع مع البرنامج.

@@ -1,0 +1,267 @@
+{
+ "data": "2026.11.08.1",
+ "notes": "الإصدار الأول",
+ "files": {
+  "data/book_abudawud.json": {
+   "sha256": "4eacc98cecd464c09821da1afc006b016468515eaf33b981a4d90745d7857dd7",
+   "size": 629688
+  },
+  "data/book_adab.json": {
+   "sha256": "3694b8339cc8e745d39105b232bf21bc40f481ad700229895fa904e7e6f12905",
+   "size": 157784
+  },
+  "data/book_ahmad.json": {
+   "sha256": "b1c0dd9b678ed514370e2a7dac977017f71966a4a6e7bf1997545463f08cefaa",
+   "size": 2593626
+  },
+  "data/book_bukhari.json": {
+   "sha256": "604d375348449d8014b9b025b640f048361c091cd560d54f42cb8a273e1c4c39",
+   "size": 927755
+  },
+  "data/book_darimi.json": {
+   "sha256": "fc206be13e1525385a348f4c7f23329dc055b931d3952454cded4dd5a10efd08",
+   "size": 300178
+  },
+  "data/book_ibnkhuzayma.json": {
+   "sha256": "fa65249f245ea1631a2adb8d9ce95f55da04f97fb43fd9ac05eb27b81cd6c7d0",
+   "size": 446901
+  },
+  "data/book_ibnmajah.json": {
+   "sha256": "82eebf95ab8d2e814319d525134b1f6cf4e9f31f52892c7dd0734afafdf5dfad",
+   "size": 512357
+  },
+  "data/book_muslim.json": {
+   "sha256": "2889181dbcd2af2819c5422fe688dc628136761651e192af72d0fcc98570456b",
+   "size": 839431
+  },
+  "data/book_muwatta.json": {
+   "sha256": "5cc298920e4258138846fe02c94f68ef84e13b4624c8606837c2fd1f44b82717",
+   "size": 137952
+  },
+  "data/book_nasai.json": {
+   "sha256": "382eac80be1379dedc028fd0c45bfaaa54ed04ed9f2df2e15b1a2100d41f5561",
+   "size": 603715
+  },
+  "data/book_tirmidhi.json": {
+   "sha256": "935d9aa0788bbeaa878b3828d3c2a6df4eace4597c3774c83d7940c834e768bf",
+   "size": 521198
+  },
+  "data/narrators.json": {
+   "sha256": "54a947fbc273c6daeea0af0fb7ea4b92b2ff56561ba068e26c682a2a66cca184",
+   "size": 1100732
+  },
+  "data/shuyukh.json": {
+   "sha256": "dc8550316e46698ccc1b08a97506dbc2220df327f73547407b6e9cd08108700e",
+   "size": 17155
+  },
+  "data/turuq_abudawud.json": {
+   "sha256": "d07c4ff05a782aa8f92903a770a10b604f50b27b57b94de6aeb94f1473db683b",
+   "size": 97273
+  },
+  "data/turuq_adab.json": {
+   "sha256": "048dda66145d689200da431fe7d590b7369649e8f69793bac0cb656016807062",
+   "size": 23611
+  },
+  "data/turuq_ahmad.json": {
+   "sha256": "d77dd4ba4b4e2ae019aeb159a4ecb358e9d3f1ea0a325b2b45fce80b4c7ce118",
+   "size": 654104
+  },
+  "data/turuq_bukhari.json": {
+   "sha256": "6a1f4f69e21856091f0720583810c7dce760d91870fd95634351e6e251e26bd4",
+   "size": 225190
+  },
+  "data/turuq_darimi.json": {
+   "sha256": "86df0212e628acbf2f4f473299a05ce4f9ef227579468c5638c380573dcb4a7f",
+   "size": 65531
+  },
+  "data/turuq_ibnkhuzayma.json": {
+   "sha256": "c5381d34f97deda3a3a4fab6b5ad305137f1c9b28366e72767f79a9d9a643307",
+   "size": 75600
+  },
+  "data/turuq_ibnmajah.json": {
+   "sha256": "cfd13653ca11913544fcca2ea0a0217ed20b992de228c6f64b76dfd433f3f25d",
+   "size": 104453
+  },
+  "data/turuq_muslim.json": {
+   "sha256": "f11958d85245357813f28a8adc5629836c2d80c08e8eeb91cf6483a03aa879c0",
+   "size": 165612
+  },
+  "data/turuq_muwatta.json": {
+   "sha256": "5ef7058c6933dab4a63c20efe6e466ce19ae4ca1b197610959a88b1f87406730",
+   "size": 34531
+  },
+  "data/turuq_nasai.json": {
+   "sha256": "72187317018866027e1068305a4e7f4a126c4ed3cea0efdade8e68da117b5706",
+   "size": 170700
+  },
+  "data/turuq_tirmidhi.json": {
+   "sha256": "2bba21d5b300c3509694bb6f6771152587929630d56ee93923ffe9d2e75fca4e",
+   "size": 97714
+  },
+  "data/works.json": {
+   "sha256": "5d50962b43b6fe411d9ffed2c01f32075e6a53bc3f03011e1f5142e549638ae2",
+   "size": 18011
+  },
+  "engine.js": {
+   "sha256": "45cdde6f408c1c787c80a5440c10e2ea7573c8cb6792b75e07aeb05c662ba2c4",
+   "size": 5411
+  },
+  "fonts.css": {
+   "sha256": "bc33139aba9fc5155ce13ee4d7630b6755df7f3dfa56c1115a669152bc743d2a",
+   "size": 1898
+  },
+  "fonts/amiri-arabic-400-normal.woff2": {
+   "sha256": "373e3861e303566039a96bd3717acda3efece28f5eef59e1c957a0f5b3f3bd36",
+   "size": 108253
+  },
+  "fonts/amiri-arabic-700-normal.woff2": {
+   "sha256": "2eb12d5112c6d3ae21c8b5037e6875b951f9c53103df9bdbac8e4a012924f56f",
+   "size": 99471
+  },
+  "fonts/amiri-latin-400-normal.woff2": {
+   "sha256": "562ea648735df284310d005d859c7acfefdf00a08114a729a89b99ef876dc048",
+   "size": 19572
+  },
+  "fonts/amiri-latin-700-normal.woff2": {
+   "sha256": "ed9f981e0f71fa5f5491e9e4e032a870d8c955b230d62e78df45e42a09679cce",
+   "size": 20328
+  },
+  "fonts/aref-ruqaa-arabic-400-normal.woff2": {
+   "sha256": "154596e4770a074260405c3bd37216f79ccbf05e622914caaa1f028b5a2afe1b",
+   "size": 38165
+  },
+  "fonts/aref-ruqaa-arabic-700-normal.woff2": {
+   "sha256": "03e2ecddc938ca27c2a286d2e9d78ab9ab59f35ae7ed5a16b52f398b4ee2e346",
+   "size": 45969
+  },
+  "fonts/aref-ruqaa-latin-400-normal.woff2": {
+   "sha256": "ff4f8611ebdc5a26d5b3725b7cbeb9cebd117bc6a08031476609990b12a8f85a",
+   "size": 14683
+  },
+  "fonts/aref-ruqaa-latin-700-normal.woff2": {
+   "sha256": "b9dd0279969146218cd1733c978d097623ea529cdce08eefcbadd2917256b85f",
+   "size": 14515
+  },
+  "fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2": {
+   "sha256": "5e8399d06444a80feb39630946bce2403ee8ca385a63813d65c6d02a95c41202",
+   "size": 42881
+  },
+  "fonts/ibm-plex-sans-arabic-arabic-500-normal.woff2": {
+   "sha256": "30e7afcca480b532911f22bc6976012dd75293b5b4bba25d6f75908ea80f33c6",
+   "size": 45326
+  },
+  "fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2": {
+   "sha256": "f4b11f5392c8344893409c1211b3e0525dee9ba5c79337b37422cdaf375414e8",
+   "size": 45721
+  },
+  "fonts/ibm-plex-sans-arabic-arabic-700-normal.woff2": {
+   "sha256": "8c7ef4a640ae16652a61451e7b066df1e3291923916ca7a61dd590d15bddd0d5",
+   "size": 44313
+  },
+  "fonts/ibm-plex-sans-arabic-cyrillic-ext-400-normal.woff2": {
+   "sha256": "80457067893853620f5d6feff85306b70d74e7ac25f02a1dc94388ab9ef7f0c2",
+   "size": 1471
+  },
+  "fonts/ibm-plex-sans-arabic-cyrillic-ext-500-normal.woff2": {
+   "sha256": "ee0c1be0e9072cabccb626d04d00e9f323cf90f4937bbfe8fef82b15dc90bec1",
+   "size": 1479
+  },
+  "fonts/ibm-plex-sans-arabic-cyrillic-ext-600-normal.woff2": {
+   "sha256": "8802483b6efa492e0c7fdc793bf1fe957038f56957b84617fb86984d9657e8b9",
+   "size": 1499
+  },
+  "fonts/ibm-plex-sans-arabic-cyrillic-ext-700-normal.woff2": {
+   "sha256": "7203d17c4db08f047f9b4c79229e34e0388561580cf9ba8b5a0167c83e1141df",
+   "size": 1499
+  },
+  "fonts/ibm-plex-sans-arabic-latin-400-normal.woff2": {
+   "sha256": "1e410e89d85c8177db2ddeedc2525e3f3b295d8f5f769247689b07a3ed128255",
+   "size": 19192
+  },
+  "fonts/ibm-plex-sans-arabic-latin-500-normal.woff2": {
+   "sha256": "2d2099a444abe1ac29af79929ad23caefb889a4bc810a6039549737dca452e06",
+   "size": 20116
+  },
+  "fonts/ibm-plex-sans-arabic-latin-600-normal.woff2": {
+   "sha256": "6f38e101943053e0a536192464b61b0a020e234a78acb6a3f2cd8ef010acbac1",
+   "size": 20528
+  },
+  "fonts/ibm-plex-sans-arabic-latin-700-normal.woff2": {
+   "sha256": "bffab5d69e300a7238374442f385fffb46a377b3688a0a03c70763c2ef62db15",
+   "size": 19532
+  },
+  "fonts/noto-naskh-arabic-arabic-400-normal.woff2": {
+   "sha256": "0d9308c8d89e723c59d286f16484d64bf5fd1396981f3ab8dde556d5e069e5fe",
+   "size": 52422
+  },
+  "fonts/noto-naskh-arabic-arabic-500-normal.woff2": {
+   "sha256": "643ebb49f6e51b8dfaed2641f60f208953996b31e5f38a493b716a287d6e8f6d",
+   "size": 56391
+  },
+  "fonts/noto-naskh-arabic-arabic-600-normal.woff2": {
+   "sha256": "acbef74a8b14c7beab5d3daa5af7f12a0d1f28ce034f14209570b0cba58e50d8",
+   "size": 56451
+  },
+  "fonts/noto-naskh-arabic-arabic-700-normal.woff2": {
+   "sha256": "cbfab0a0a428258747b9257e717aee3c6ba002d0a02926d73cc7c66e65cb9388",
+   "size": 52852
+  },
+  "fonts/noto-naskh-arabic-latin-400-normal.woff2": {
+   "sha256": "09b224f2d77d716876e77f8ba2bbfd52792d617c355240d61a47d74b15aefa04",
+   "size": 11523
+  },
+  "fonts/noto-naskh-arabic-latin-500-normal.woff2": {
+   "sha256": "040a8313d6366476bd75a87932c838ca88bd3e6c73df7eddd68ce6521631be54",
+   "size": 12119
+  },
+  "fonts/noto-naskh-arabic-latin-600-normal.woff2": {
+   "sha256": "d0fa070b369a08f13f014b68d20d982da4fb39a4a5f7a42060aa11ad1765b012",
+   "size": 12143
+  },
+  "fonts/noto-naskh-arabic-latin-700-normal.woff2": {
+   "sha256": "d445cb8a1bec528fdde2ff525a88dd9a224fbc17652c737112931d782616fc7d",
+   "size": 12071
+  },
+  "fonts/noto-naskh-arabic-math-400-normal.woff2": {
+   "sha256": "559c34f0f0c7d5cc174c5501bb24661ef765c8cd0fbf79ee97169ffb0d0b2620",
+   "size": 8351
+  },
+  "fonts/noto-naskh-arabic-math-500-normal.woff2": {
+   "sha256": "8f8b2e5d234f0d3993b89d950945ac8fc8acd0ec405670aaf43b51f744585d00",
+   "size": 8731
+  },
+  "fonts/noto-naskh-arabic-math-600-normal.woff2": {
+   "sha256": "a38e41a4f8a10ef4493d26abdb62439e8962baf97de8b5c0e7d502359ad815cb",
+   "size": 8731
+  },
+  "fonts/noto-naskh-arabic-math-700-normal.woff2": {
+   "sha256": "1802deea60f2e6156139a1aafba41c45ebff4df69545dbb05c2a42596c1e8a42",
+   "size": 8671
+  },
+  "fonts/noto-naskh-arabic-symbols-400-normal.woff2": {
+   "sha256": "146b9bc1068345ace09d1b59c204c6bc261d6639a239b16d1759d55123cef8e5",
+   "size": 5439
+  },
+  "fonts/noto-naskh-arabic-symbols-500-normal.woff2": {
+   "sha256": "d39a1ea556132f2399c147d413dab63240d784b0e78fba81f28bea3c89483caf",
+   "size": 5799
+  },
+  "fonts/noto-naskh-arabic-symbols-600-normal.woff2": {
+   "sha256": "559e7a54ac586a1eb97ee67adf6f7bfb42d6305f25729c2d682fa3e4e77d2539",
+   "size": 5739
+  },
+  "fonts/noto-naskh-arabic-symbols-700-normal.woff2": {
+   "sha256": "54a78f23783b584546a42d5c4bc3af27886133102fc00b608293984204264ee3",
+   "size": 5723
+  },
+  "index.html": {
+   "sha256": "52f382bb917f4a71556371c3c00a3850d1a9301ddf5cd248e894275560149823",
+   "size": 20919
+  }
+ },
+ "app": {
+  "version": "1.0.0",
+  "path": "app/Kashshaf-Jaafari.exe",
+  "sha256": "b9f5956f45f4ee351a94bf528333688d9590a65138bcd759d9d79c90eefb03c0"
+ }
+}
