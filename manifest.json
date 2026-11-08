@@ -1,6 +1,6 @@
 {
- "data": "2026.11.08.2",
- "notes": "أصحاب التدوين من الصحابة والتابعين بالذهبي، مع مصنفاتهم من كتاب الأعظمي",
+ "data": "2026.11.08.3",
+ "notes": "إلحاق صحف التابعين وصغارهم من كتاب الأعظمي (الفصلان 2 و3): 423 مدخلاً لـ 299 راوياً بالذهبي",
  "files": {
   "data/book_abudawud.json": {
    "sha256": "4eacc98cecd464c09821da1afc006b016468515eaf33b981a4d90745d7857dd7",
@@ -99,8 +99,8 @@
    "size": 97714
   },
   "data/works.json": {
-   "sha256": "474ee3e41c10085e64fc082543f0bc73f234805ea46f78ec038b40c2546501ce",
-   "size": 24086
+   "sha256": "685ff48d9a7b37c95fdad148a2456d8293af540fe5fa4e6bae4c41515dc34ca3",
+   "size": 37252
   },
   "engine.js": {
    "sha256": "45cdde6f408c1c787c80a5440c10e2ea7573c8cb6792b75e07aeb05c662ba2c4",
@@ -262,6 +262,6 @@
  "app": {
   "version": "1.0.0",
   "path": "app/Kashshaf-Jaafari.exe",
-  "sha256": "55c658d282a965a91815e1612350a3293a70125bde586875a0a257bec933708d"
+  "sha256": "cece66a565c8fdf341a540c5bf2533ac8f898905361a42f9ab9fc554295698ca"
  }
 }
