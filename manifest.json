@@ -1,6 +1,6 @@
 {
- "data": "2026.11.08.1",
- "notes": "الإصدار الأول",
+ "data": "2026.11.08.2",
+ "notes": "أصحاب التدوين من الصحابة والتابعين بالذهبي، مع مصنفاتهم من كتاب الأعظمي",
  "files": {
   "data/book_abudawud.json": {
    "sha256": "4eacc98cecd464c09821da1afc006b016468515eaf33b981a4d90745d7857dd7",
@@ -99,8 +99,8 @@
    "size": 97714
   },
   "data/works.json": {
-   "sha256": "5d50962b43b6fe411d9ffed2c01f32075e6a53bc3f03011e1f5142e549638ae2",
-   "size": 18011
+   "sha256": "474ee3e41c10085e64fc082543f0bc73f234805ea46f78ec038b40c2546501ce",
+   "size": 24086
   },
   "engine.js": {
    "sha256": "45cdde6f408c1c787c80a5440c10e2ea7573c8cb6792b75e07aeb05c662ba2c4",
@@ -255,13 +255,13 @@
    "size": 5723
   },
   "index.html": {
-   "sha256": "52f382bb917f4a71556371c3c00a3850d1a9301ddf5cd248e894275560149823",
-   "size": 20919
+   "sha256": "c859a91e45422edfa744b89bffb9b5155d9a0b77c2fafb7f237d11d11191fc21",
+   "size": 21417
   }
  },
  "app": {
   "version": "1.0.0",
   "path": "app/Kashshaf-Jaafari.exe",
-  "sha256": "b9f5956f45f4ee351a94bf528333688d9590a65138bcd759d9d79c90eefb03c0"
+  "sha256": "55c658d282a965a91815e1612350a3293a70125bde586875a0a257bec933708d"
  }
 }
